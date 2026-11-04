@@ -1,0 +1,14 @@
+{
+  "name": "日本人搭台鐵",
+  "short_name": "日本人搭台鐵",
+  "description": "猜商練習：每站有 3 個旅行團，猜對讓他們上車，終點站下車的人數就是點數，可到商店買車、買雲、切換日夜",
+  "start_url": "./mrt-tour.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#5e35b1",
+  "theme_color": "#5e35b1",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
